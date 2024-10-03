@@ -3,7 +3,8 @@ using namespace std;
 
 int main() {
 
-    cout << "Hello World\n";
+    cout << "見せてもらいましょう 借り物の翼で　どこまで飛べるか" << endl;
+
 
     return 0;
 }
